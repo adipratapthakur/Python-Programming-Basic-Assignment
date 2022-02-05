@@ -1,5 +1,8 @@
-# Python-Programming-Basic-Assignment
-
+# Python-Programming-Basic-Assignment  
+  
+  **_Solutions are available in Jupyter notebook files in the repository_**
+  
+  
 ## Programming Assignment 1 Questions
 
 1.	Write a Python program to print `"Hello Python"`?  
