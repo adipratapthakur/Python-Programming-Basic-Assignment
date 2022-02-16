@@ -44,5 +44,14 @@
 4.	Write a Python Program To Find ASCII value of a character?  
 5.	Write a Python Program to Make a Simple Calculator with 4 basic mathematical operations?  
 
+## Programming Assignment 6 Questions
+
+1.	Write a Python Program to Display Fibonacci Sequence Using Recursion?  
+2.	Write a Python Program to Find Factorial of Number Using Recursion?  
+3.	Write a Python Program to calculate your Body Mass Index?  
+4.	Write a Python Program to calculate the natural logarithm of any number?  
+5.	Write a Python Program for cube sum of first n natural numbers?  
+
+
 
 
